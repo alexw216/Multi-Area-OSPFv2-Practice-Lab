@@ -8,7 +8,7 @@ A complete, scenario‑driven OSPFv2 lab built for Cisco Modeling Labs (CML 2.9.
 - ASBR redistribution  
 - DR/BDR election on broadcast segment  
 - Virtual link operations  
-- Full router configs embedded in the YAML (CML 2.9.1 “Extra Configs” feature)
+- Full router configs embedded in the YAML (CML 2.9.1 “Extract Configs” feature)
 
 This repository is designed for hands‑on practice, verification, and deep OSPF theory reinforcement.
 
